@@ -31,7 +31,7 @@ Colourify uses a number of Python packages;
 
 The code uploaded to GitHub makes use of the test-data provided in the **.json** file.
 
-## Example Song Palette
+## Example Song Palettes
 
 | **Shoot You Down - The Stone Roses** | **Sola Es Mejor - Karol G** | **Flying On The Ground - Noel Gallagher** |
 | :----------------------------------: | :-------------------------: | :---------------------------------------: |
