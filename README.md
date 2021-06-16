@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/RobertCooney99/Colourify/main/Images/Logo-V3-LARGE.png" width="100" height="100">
 
-**Colourify** is a Python program that analyses the colour schemes of the album covers taken from a user's Spotify listening history. Each song produces an 8 colour palette containing the most
+**Colourify** is a Python program that analyses the colour schemes of the album covers taken from a users Spotify listening history. Each song produces an 8 colour palette containing the most
 dominant colours within the image. In **Version 1** the program creates a list of all the colours from the calculated palettes and categorises the colours into 8 sets based on
 the Hue value of the colour. Each individual Hue category is then sorted based on the luminosity value.
 
